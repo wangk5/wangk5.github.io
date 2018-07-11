@@ -1,0 +1,13 @@
+
+---
+layout: default
+title: About Me
+---
+<div class="typewriter">
+  <h1>Hi there, I'm Katherine!</h1>
+	
+</div>
+
+<div class="blurb">
+	<p>I'm a New Mexico native, <em>CS @ Princeton University,</em> and foodie to boot. <a href="/projects">Check out what I've been up to...</a></p>
+</div><!-- /.blurb -->
