@@ -21,7 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
@@ -59,7 +59,7 @@ body {
   border-right: .15em solid black; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .10em; /* Adjust as needed */
+  letter-spacing: .05em; /* Adjust as needed */
   animation: 
     typing 4.5s steps(30, end),
     blink-caret .7s step-end infinite;
@@ -74,5 +74,5 @@ body {
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: orange }
+  50% { border-color: black }
 }
