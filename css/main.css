@@ -54,7 +54,7 @@ ul.posts li {
   letter-spacing: .05em; /* Adjust as needed */
   animation: 
     typing 4.5s steps(30, end),
-    blink-caret .7s step-end infinite;
+    blink-caret .5s step-end infinite;
 }
 
 /* The typing effect */
@@ -66,5 +66,5 @@ ul.posts li {
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: white }
+  50% { border-color: black }
 }
