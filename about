@@ -3,11 +3,7 @@
 layout: default
 title: About Me
 ---
-<div class="typewriter">
-  <h1>Hi there, I'm Katherine!</h1>
-	
-</div>
-
 <div class="blurb">
+<h1>About Me</h1>
 	<p>I'm a New Mexico native, <em>CS @ Princeton University,</em> and foodie to boot. <a href="/projects">Check out what I've been up to...</a></p>
 </div><!-- /.blurb -->
