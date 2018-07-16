@@ -26,8 +26,8 @@ h1 {
 h2 {
     font-size: 2em;
     font-family: 'Helvetica', 'Serif';
-    font-weight: 'lighter';
-    color: 'dark gray';
+    font-weight: 400;
+    color: gray;
 }
 p {
     font-size: 1.5em;
