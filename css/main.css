@@ -25,7 +25,9 @@ h1 {
 }
 h2 {
     font-size: 2em;
-    font-family: 'Helvetica';
+    font-family: 'Helvetica', 'Serif';
+    font-weight: 'lighter';
+    color: 'dark gray';
 }
 p {
     font-size: 1.5em;
