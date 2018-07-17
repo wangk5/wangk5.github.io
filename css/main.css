@@ -77,8 +77,8 @@ ul.posts li {
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 25 }
-  to { width: 75% }
+  from { width: 20 }
+  to { width: 100% }
 }
 
 /* The typewriter cursor effect */
