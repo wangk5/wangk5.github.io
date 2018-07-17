@@ -63,7 +63,6 @@ ul.posts li {
 /* TYPEWRITER EFFECT */
 .typewriter h1 {
   color: #000000;
-  text-align=center;
   font-family: 'Helvetica';
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid black; /* The typwriter cursor */
@@ -71,13 +70,13 @@ ul.posts li {
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .05em; /* Adjust as needed */
   animation: 
-    typing 4.5s steps(30, end),
+    typing 4.5s steps(40, end),
     blink-caret .5s step-end infinite;
 }
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 20 }
+  from { width: 0 }
   to { width: 100% }
 }
 
