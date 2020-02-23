@@ -56,5 +56,56 @@
 			<availability>in stock</availability>
 			<brand>PN</brand>
 		</item>
+		<item>
+			<id>6</id>
+			<title>MA102</title>
+			<description>Introduction to limits and derivatives as preparation for further courses in calculus. Fundamental functions (polynomials, rational functions, exponential, logarithmic, trigonometric) and their graphs will be also reviewed. Other topics include tangent and normal lines, linearization, computing area and rates of change. The emphasis will be on learning to think independently and creatively in the mathematical setting.</description>
+			<link>https://princetonnightclasses.weebly.com/store/p24/MA_101%3A_Fundamentals_of_Calculus.html</link>
+			<image_link>https://www.humanite.fr/sites/default/files/images/equation.jpg</image_link>
+			<price>100.00 USD</price>
+			<sale_price>100.00 USD</sale_price>
+			<availability>in stock</availability>
+			<brand>PN</brand>
+		</item><item>
+			<id>7</id>
+			<title>MA103</title>
+			<description>Introduction to limits and derivatives as preparation for further courses in calculus. Fundamental functions (polynomials, rational functions, exponential, logarithmic, trigonometric) and their graphs will be also reviewed. Other topics include tangent and normal lines, linearization, computing area and rates of change. The emphasis will be on learning to think independently and creatively in the mathematical setting.</description>
+			<link>https://princetonnightclasses.weebly.com/store/p24/MA_101%3A_Fundamentals_of_Calculus.html</link>
+			<image_link>https://www.humanite.fr/sites/default/files/images/equation.jpg</image_link>
+			<price>100.00 USD</price>
+			<sale_price>100.00 USD</sale_price>
+			<availability>in stock</availability>
+			<brand>PN</brand>
+		</item><item>
+			<id>8</id>
+			<title>MA104</title>
+			<description>Introduction to limits and derivatives as preparation for further courses in calculus. Fundamental functions (polynomials, rational functions, exponential, logarithmic, trigonometric) and their graphs will be also reviewed. Other topics include tangent and normal lines, linearization, computing area and rates of change. The emphasis will be on learning to think independently and creatively in the mathematical setting.</description>
+			<link>https://princetonnightclasses.weebly.com/store/p24/MA_101%3A_Fundamentals_of_Calculus.html</link>
+			<image_link>https://www.humanite.fr/sites/default/files/images/equation.jpg</image_link>
+			<price>100.00 USD</price>
+			<sale_price>100.00 USD</sale_price>
+			<availability>in stock</availability>
+			<brand>PN</brand>
+		</item><item>
+			<id>9</id>
+			<title>MA105</title>
+			<description>Introduction to limits and derivatives as preparation for further courses in calculus. Fundamental functions (polynomials, rational functions, exponential, logarithmic, trigonometric) and their graphs will be also reviewed. Other topics include tangent and normal lines, linearization, computing area and rates of change. The emphasis will be on learning to think independently and creatively in the mathematical setting.</description>
+			<link>https://princetonnightclasses.weebly.com/store/p24/MA_101%3A_Fundamentals_of_Calculus.html</link>
+			<image_link>https://www.humanite.fr/sites/default/files/images/equation.jpg</image_link>
+			<price>100.00 USD</price>
+			<sale_price>100.00 USD</sale_price>
+			<availability>in stock</availability>
+			<brand>PN</brand>
+		</item><item>
+			<id>10</id>
+			<title>MA106</title>
+			<description>Introduction to limits and derivatives as preparation for further courses in calculus. Fundamental functions (polynomials, rational functions, exponential, logarithmic, trigonometric) and their graphs will be also reviewed. Other topics include tangent and normal lines, linearization, computing area and rates of change. The emphasis will be on learning to think independently and creatively in the mathematical setting.</description>
+			<link>https://princetonnightclasses.weebly.com/store/p24/MA_101%3A_Fundamentals_of_Calculus.html</link>
+			<image_link>https://www.humanite.fr/sites/default/files/images/equation.jpg</image_link>
+			<price>100.00 USD</price>
+			<sale_price>100.00 USD</sale_price>
+			<availability>in stock</availability>
+			<brand>PN</brand>
+		</item>
 	</channel>
 </rss>
